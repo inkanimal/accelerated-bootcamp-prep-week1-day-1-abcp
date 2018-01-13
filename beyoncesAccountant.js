@@ -1,11 +1,10 @@
-console.log("Dear Beyonce,")
+var sum = 500 + 750 + 3000 + 5100 + 12980 + 9087 + 50000;
 console.log("We have calculated your total earnings this year.")
-console.log("You have earned " + beyoncesMoney)
-console.log("Of" + 500 + 750 + 3000 + 5100 + 12980 + 9087 + 50000 + " some portion derives from your live performances.")
-console.log("Of" + 500 + 750 + 3000 + 5100 + 12980 + 9087 + 50000 + " some portion derives from music sales.")
+console.log("You have earned " + sum)
+console.log("Of " + sum + " some portion derives from your live performances.")
+console.log("Of " + sum + " some portion derives from music sales.")
 
-var sum = 500 + 750 + 3000 + 5100 + 12980 + 9087 + 50000
-console.log(sum)
+
 
 // DON'T DO THIS PART YET:
 // Now that we understand what a variable is
